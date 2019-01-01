@@ -8,8 +8,4 @@ For Windows
 Install XAMPP
 Download http://j.gs/C6YK
 usage : php autovisitor.php
-For Termux or Linux
-pkg install php
-git clone https://github.com/Any1willKnow/AUTOVISITOR-1-master
-cd AUTOVISITOR
-php autovisitor.php
+
